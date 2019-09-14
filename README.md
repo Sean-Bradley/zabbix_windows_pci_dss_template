@@ -1,2 +1,2 @@
-# zabbix_windows_pci_dss_template
+# Zabbix Windows PCI DSS Template
 A zabbix template with pci dss related items.
