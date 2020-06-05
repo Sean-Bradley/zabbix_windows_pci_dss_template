@@ -26,7 +26,7 @@
                     <name>EventID 4608 : Windows is starting up</name>
                     <type>ZABBIX_ACTIVE</type>
                     <key>eventlog[Security,,,,4608,,skip]</key>
-                    <delay>10s</delay>
+                    <delay>1m</delay>
                     <history>1d</history>
                     <trends>0</trends>
                     <value_type>LOG</value_type>
@@ -54,7 +54,7 @@ return accountName + &quot; : &quot; + lineZero;</params>
                     <name>EventID 4609 : Windows is shutting down</name>
                     <type>ZABBIX_ACTIVE</type>
                     <key>eventlog[Security,,,,4609,,skip]</key>
-                    <delay>10s</delay>
+                    <delay>1m</delay>
                     <history>1d</history>
                     <trends>0</trends>
                     <value_type>LOG</value_type>
@@ -82,7 +82,7 @@ return accountName + &quot; : &quot; + lineZero;</params>
                     <name>EventID 4610 : An authentication package has been loaded by the Local Security Authority</name>
                     <type>ZABBIX_ACTIVE</type>
                     <key>eventlog[Security,,,,4610,,skip]</key>
-                    <delay>10s</delay>
+                    <delay>1m</delay>
                     <history>1d</history>
                     <trends>0</trends>
                     <value_type>LOG</value_type>
@@ -110,7 +110,7 @@ return accountName + &quot; : &quot; + lineZero;</params>
                     <name>EventID 4611 : A trusted logon process has been registered with the Local Security Authority</name>
                     <type>ZABBIX_ACTIVE</type>
                     <key>eventlog[Security,,,,4611,,skip]</key>
-                    <delay>10s</delay>
+                    <delay>1m</delay>
                     <history>1d</history>
                     <trends>0</trends>
                     <value_type>LOG</value_type>
@@ -138,7 +138,7 @@ return accountName + &quot; : &quot; + lineZero;</params>
                     <name>EventID 4612 : Internal resources allocated for the queuing of audit messages have been exhausted, leading to the loss of some audits.</name>
                     <type>ZABBIX_ACTIVE</type>
                     <key>eventlog[Security,,,,4612,,skip]</key>
-                    <delay>10s</delay>
+                    <delay>1m</delay>
                     <history>1d</history>
                     <trends>0</trends>
                     <value_type>LOG</value_type>
@@ -166,7 +166,7 @@ return accountName + &quot; : &quot; + lineZero;</params>
                     <name>EventID 4614 : A notification package has been loaded by the Security Account Manager</name>
                     <type>ZABBIX_ACTIVE</type>
                     <key>eventlog[Security,,,,4614,,skip]</key>
-                    <delay>10s</delay>
+                    <delay>1m</delay>
                     <history>1d</history>
                     <trends>0</trends>
                     <value_type>LOG</value_type>
@@ -194,7 +194,7 @@ return accountName + &quot; : &quot; + lineZero;</params>
                     <name>EventID 4616 : The system time was changed</name>
                     <type>ZABBIX_ACTIVE</type>
                     <key>eventlog[Security,,,,4616,,skip]</key>
-                    <delay>10s</delay>
+                    <delay>1m</delay>
                     <history>1d</history>
                     <trends>0</trends>
                     <value_type>LOG</value_type>
@@ -222,7 +222,7 @@ return accountName + &quot; : &quot; + lineZero;</params>
                     <name>EventID 4624 : Successful Logon</name>
                     <type>ZABBIX_ACTIVE</type>
                     <key>eventlog[Security,,,,4624,,skip]</key>
-                    <delay>10s</delay>
+                    <delay>1m</delay>
                     <history>1d</history>
                     <trends>0</trends>
                     <value_type>LOG</value_type>
@@ -250,7 +250,7 @@ return accountName + &quot; : &quot; + lineZero;</params>
                     <name>EventID 4625 : Failed Logon</name>
                     <type>ZABBIX_ACTIVE</type>
                     <key>eventlog[Security,,,,4625,,skip]</key>
-                    <delay>10s</delay>
+                    <delay>1m</delay>
                     <history>1d</history>
                     <trends>0</trends>
                     <value_type>LOG</value_type>
@@ -278,7 +278,7 @@ return accountName + &quot; : &quot; + lineZero;</params>
                     <name>EventID 4634 : An account was logged off</name>
                     <type>ZABBIX_ACTIVE</type>
                     <key>eventlog[Security,,,,4634,,skip]</key>
-                    <delay>10s</delay>
+                    <delay>1m</delay>
                     <history>1d</history>
                     <trends>0</trends>
                     <value_type>LOG</value_type>
@@ -306,7 +306,7 @@ return accountName + &quot; : &quot; + lineZero;</params>
                     <name>EventID 4657 : A registry value was modified</name>
                     <type>ZABBIX_ACTIVE</type>
                     <key>eventlog[Security,,,,4657,,skip]</key>
-                    <delay>10s</delay>
+                    <delay>1m</delay>
                     <history>1d</history>
                     <trends>0</trends>
                     <value_type>LOG</value_type>
@@ -334,7 +334,7 @@ return accountName + &quot; : &quot; + lineZero;</params>
                     <name>EventID 4660 : An object was deleted</name>
                     <type>ZABBIX_ACTIVE</type>
                     <key>eventlog[Security,,,,4660,,skip]</key>
-                    <delay>10s</delay>
+                    <delay>1m</delay>
                     <history>1d</history>
                     <trends>0</trends>
                     <value_type>LOG</value_type>
@@ -362,7 +362,7 @@ return accountName + &quot; : &quot; + lineZero;</params>
                     <name>EventID 4663 : An attempt was made to access an object</name>
                     <type>ZABBIX_ACTIVE</type>
                     <key>eventlog[Security,,,,4663,,skip]</key>
-                    <delay>10s</delay>
+                    <delay>1m</delay>
                     <history>1d</history>
                     <trends>0</trends>
                     <value_type>LOG</value_type>
@@ -390,7 +390,7 @@ return accountName + &quot; : &quot; + lineZero;</params>
                     <name>EventID 4670 : Permissions on an object were changed</name>
                     <type>ZABBIX_ACTIVE</type>
                     <key>eventlog[Security,,,,4670,,skip]</key>
-                    <delay>10s</delay>
+                    <delay>1m</delay>
                     <history>1d</history>
                     <trends>0</trends>
                     <value_type>LOG</value_type>
@@ -418,7 +418,7 @@ return accountName + &quot; : &quot; + lineZero;</params>
                     <name>EventID 4674 : An operation was attempted on a privileged object</name>
                     <type>ZABBIX_ACTIVE</type>
                     <key>eventlog[Security,,,,4674,,skip]</key>
-                    <delay>10s</delay>
+                    <delay>1m</delay>
                     <history>1d</history>
                     <trends>0</trends>
                     <value_type>LOG</value_type>
@@ -446,7 +446,7 @@ return accountName + &quot; : &quot; + lineZero;</params>
                     <name>EventID 4720 : A user account was created</name>
                     <type>ZABBIX_ACTIVE</type>
                     <key>eventlog[Security,,,,4720,,skip]</key>
-                    <delay>10s</delay>
+                    <delay>1m</delay>
                     <history>1d</history>
                     <trends>0</trends>
                     <value_type>LOG</value_type>
@@ -474,7 +474,7 @@ return accountName + &quot; : &quot; + lineZero;</params>
                     <name>EventID 4722 : A user account was enabled</name>
                     <type>ZABBIX_ACTIVE</type>
                     <key>eventlog[Security,,,,4722,,skip]</key>
-                    <delay>10s</delay>
+                    <delay>1m</delay>
                     <history>1d</history>
                     <trends>0</trends>
                     <value_type>LOG</value_type>
@@ -502,7 +502,7 @@ return accountName + &quot; : &quot; + lineZero;</params>
                     <name>EventID 4723 : An attempt was made to change an account's password</name>
                     <type>ZABBIX_ACTIVE</type>
                     <key>eventlog[Security,,,,4723,,skip]</key>
-                    <delay>10s</delay>
+                    <delay>1m</delay>
                     <history>1d</history>
                     <trends>0</trends>
                     <value_type>LOG</value_type>
@@ -530,7 +530,7 @@ return accountName + &quot; : &quot; + lineZero;</params>
                     <name>EventID 4725 : A user account was disabled</name>
                     <type>ZABBIX_ACTIVE</type>
                     <key>eventlog[Security,,,,4725,,skip]</key>
-                    <delay>10s</delay>
+                    <delay>1m</delay>
                     <history>1d</history>
                     <trends>0</trends>
                     <value_type>LOG</value_type>
@@ -558,7 +558,7 @@ return accountName + &quot; : &quot; + lineZero;</params>
                     <name>EventID 4726 : A user account was deleted</name>
                     <type>ZABBIX_ACTIVE</type>
                     <key>eventlog[Security,,,,4726,,skip]</key>
-                    <delay>10s</delay>
+                    <delay>1m</delay>
                     <history>1d</history>
                     <trends>0</trends>
                     <value_type>LOG</value_type>
@@ -586,7 +586,7 @@ return accountName + &quot; : &quot; + lineZero;</params>
                     <name>EventID 4727 : A security-enabled global group was created</name>
                     <type>ZABBIX_ACTIVE</type>
                     <key>eventlog[Security,,,,4727,,skip]</key>
-                    <delay>10s</delay>
+                    <delay>1m</delay>
                     <history>1d</history>
                     <trends>0</trends>
                     <value_type>LOG</value_type>
@@ -614,7 +614,7 @@ return accountName + &quot; : &quot; + lineZero;</params>
                     <name>EventID 4728 : A member was added to a security-enabled global group</name>
                     <type>ZABBIX_ACTIVE</type>
                     <key>eventlog[Security,,,,4728,,skip]</key>
-                    <delay>10s</delay>
+                    <delay>1m</delay>
                     <history>1d</history>
                     <trends>0</trends>
                     <value_type>LOG</value_type>
@@ -642,7 +642,7 @@ return accountName + &quot; : &quot; + lineZero;</params>
                     <name>EventID 4729 : A member was removed from a security-enabled global group</name>
                     <type>ZABBIX_ACTIVE</type>
                     <key>eventlog[Security,,,,4729,,skip]</key>
-                    <delay>10s</delay>
+                    <delay>1m</delay>
                     <history>1d</history>
                     <trends>0</trends>
                     <value_type>LOG</value_type>
@@ -670,7 +670,7 @@ return accountName + &quot; : &quot; + lineZero;</params>
                     <name>EventID 4730 : A security-enabled global group was deleted</name>
                     <type>ZABBIX_ACTIVE</type>
                     <key>eventlog[Security,,,,4730,,skip]</key>
-                    <delay>10s</delay>
+                    <delay>1m</delay>
                     <history>1d</history>
                     <trends>0</trends>
                     <value_type>LOG</value_type>
@@ -698,7 +698,7 @@ return accountName + &quot; : &quot; + lineZero;</params>
                     <name>EventID 4731 : A security-enabled local group was created</name>
                     <type>ZABBIX_ACTIVE</type>
                     <key>eventlog[Security,,,,4731,,skip]</key>
-                    <delay>10s</delay>
+                    <delay>1m</delay>
                     <history>1d</history>
                     <trends>0</trends>
                     <value_type>LOG</value_type>
@@ -726,7 +726,7 @@ return accountName + &quot; : &quot; + lineZero;</params>
                     <name>EventID 4732 : A member was added to a security-enabled local group</name>
                     <type>ZABBIX_ACTIVE</type>
                     <key>eventlog[Security,,,,4732,,skip]</key>
-                    <delay>10s</delay>
+                    <delay>1m</delay>
                     <history>1d</history>
                     <trends>0</trends>
                     <value_type>LOG</value_type>
@@ -754,7 +754,7 @@ return accountName + &quot; : &quot; + lineZero;</params>
                     <name>EventID 4733 : A member was removed from a security-enabled local group</name>
                     <type>ZABBIX_ACTIVE</type>
                     <key>eventlog[Security,,,,4733,,skip]</key>
-                    <delay>10s</delay>
+                    <delay>1m</delay>
                     <history>1d</history>
                     <trends>0</trends>
                     <value_type>LOG</value_type>
@@ -782,7 +782,7 @@ return accountName + &quot; : &quot; + lineZero;</params>
                     <name>EventID 4734 : A security-enabled local group was deleted</name>
                     <type>ZABBIX_ACTIVE</type>
                     <key>eventlog[Security,,,,4734,,skip]</key>
-                    <delay>10s</delay>
+                    <delay>1m</delay>
                     <history>1d</history>
                     <trends>0</trends>
                     <value_type>LOG</value_type>
@@ -810,7 +810,7 @@ return accountName + &quot; : &quot; + lineZero;</params>
                     <name>EventID 4738 : A user account was changed</name>
                     <type>ZABBIX_ACTIVE</type>
                     <key>eventlog[Security,,,,4738,,skip]</key>
-                    <delay>10s</delay>
+                    <delay>1m</delay>
                     <history>1d</history>
                     <trends>0</trends>
                     <value_type>LOG</value_type>
@@ -838,7 +838,7 @@ return accountName + &quot; : &quot; + lineZero;</params>
                     <name>EventID 4740 : A user account was locked out</name>
                     <type>ZABBIX_ACTIVE</type>
                     <key>eventlog[Security,,,,4740,,skip]</key>
-                    <delay>10s</delay>
+                    <delay>1m</delay>
                     <history>1d</history>
                     <trends>0</trends>
                     <value_type>LOG</value_type>
@@ -866,7 +866,7 @@ return accountName + &quot; : &quot; + lineZero;</params>
                     <name>EventID 4767 : A user account was unlocked</name>
                     <type>ZABBIX_ACTIVE</type>
                     <key>eventlog[Security,,,,4767,,skip]</key>
-                    <delay>10s</delay>
+                    <delay>1m</delay>
                     <history>1d</history>
                     <trends>0</trends>
                     <value_type>LOG</value_type>
@@ -894,7 +894,7 @@ return accountName + &quot; : &quot; + lineZero;</params>
                     <name>EventID 6144 : Security policy in the group policy objects has been applied successfully</name>
                     <type>ZABBIX_ACTIVE</type>
                     <key>eventlog[Security,,,,6144,,skip]</key>
-                    <delay>10s</delay>
+                    <delay>1m</delay>
                     <history>1d</history>
                     <trends>0</trends>
                     <value_type>LOG</value_type>
