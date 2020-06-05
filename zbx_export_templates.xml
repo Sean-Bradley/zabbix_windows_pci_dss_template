@@ -27,7 +27,7 @@
                     <type>ZABBIX_ACTIVE</type>
                     <key>eventlog[Security,,,,4608,,skip]</key>
                     <delay>1m</delay>
-                    <history>1d</history>
+                    <history>7d</history>
                     <trends>0</trends>
                     <value_type>LOG</value_type>
                     <applications>
@@ -55,7 +55,7 @@ return accountName + &quot; : &quot; + lineZero;</params>
                     <type>ZABBIX_ACTIVE</type>
                     <key>eventlog[Security,,,,4609,,skip]</key>
                     <delay>1m</delay>
-                    <history>1d</history>
+                    <history>7d</history>
                     <trends>0</trends>
                     <value_type>LOG</value_type>
                     <applications>
@@ -83,7 +83,7 @@ return accountName + &quot; : &quot; + lineZero;</params>
                     <type>ZABBIX_ACTIVE</type>
                     <key>eventlog[Security,,,,4610,,skip]</key>
                     <delay>1m</delay>
-                    <history>1d</history>
+                    <history>7d</history>
                     <trends>0</trends>
                     <value_type>LOG</value_type>
                     <applications>
@@ -111,7 +111,7 @@ return accountName + &quot; : &quot; + lineZero;</params>
                     <type>ZABBIX_ACTIVE</type>
                     <key>eventlog[Security,,,,4611,,skip]</key>
                     <delay>1m</delay>
-                    <history>1d</history>
+                    <history>7d</history>
                     <trends>0</trends>
                     <value_type>LOG</value_type>
                     <applications>
@@ -139,7 +139,7 @@ return accountName + &quot; : &quot; + lineZero;</params>
                     <type>ZABBIX_ACTIVE</type>
                     <key>eventlog[Security,,,,4612,,skip]</key>
                     <delay>1m</delay>
-                    <history>1d</history>
+                    <history>7d</history>
                     <trends>0</trends>
                     <value_type>LOG</value_type>
                     <applications>
@@ -167,7 +167,7 @@ return accountName + &quot; : &quot; + lineZero;</params>
                     <type>ZABBIX_ACTIVE</type>
                     <key>eventlog[Security,,,,4614,,skip]</key>
                     <delay>1m</delay>
-                    <history>1d</history>
+                    <history>7d</history>
                     <trends>0</trends>
                     <value_type>LOG</value_type>
                     <applications>
@@ -195,7 +195,7 @@ return accountName + &quot; : &quot; + lineZero;</params>
                     <type>ZABBIX_ACTIVE</type>
                     <key>eventlog[Security,,,,4616,,skip]</key>
                     <delay>1m</delay>
-                    <history>1d</history>
+                    <history>7d</history>
                     <trends>0</trends>
                     <value_type>LOG</value_type>
                     <applications>
@@ -223,7 +223,7 @@ return accountName + &quot; : &quot; + lineZero;</params>
                     <type>ZABBIX_ACTIVE</type>
                     <key>eventlog[Security,,,,4624,,skip]</key>
                     <delay>1m</delay>
-                    <history>1d</history>
+                    <history>7d</history>
                     <trends>0</trends>
                     <value_type>LOG</value_type>
                     <applications>
@@ -251,7 +251,7 @@ return accountName + &quot; : &quot; + lineZero;</params>
                     <type>ZABBIX_ACTIVE</type>
                     <key>eventlog[Security,,,,4625,,skip]</key>
                     <delay>1m</delay>
-                    <history>1d</history>
+                    <history>7d</history>
                     <trends>0</trends>
                     <value_type>LOG</value_type>
                     <applications>
@@ -279,7 +279,7 @@ return accountName + &quot; : &quot; + lineZero;</params>
                     <type>ZABBIX_ACTIVE</type>
                     <key>eventlog[Security,,,,4634,,skip]</key>
                     <delay>1m</delay>
-                    <history>1d</history>
+                    <history>7d</history>
                     <trends>0</trends>
                     <value_type>LOG</value_type>
                     <applications>
@@ -307,7 +307,7 @@ return accountName + &quot; : &quot; + lineZero;</params>
                     <type>ZABBIX_ACTIVE</type>
                     <key>eventlog[Security,,,,4657,,skip]</key>
                     <delay>1m</delay>
-                    <history>1d</history>
+                    <history>7d</history>
                     <trends>0</trends>
                     <value_type>LOG</value_type>
                     <applications>
@@ -335,7 +335,7 @@ return accountName + &quot; : &quot; + lineZero;</params>
                     <type>ZABBIX_ACTIVE</type>
                     <key>eventlog[Security,,,,4660,,skip]</key>
                     <delay>1m</delay>
-                    <history>1d</history>
+                    <history>7d</history>
                     <trends>0</trends>
                     <value_type>LOG</value_type>
                     <applications>
@@ -363,7 +363,7 @@ return accountName + &quot; : &quot; + lineZero;</params>
                     <type>ZABBIX_ACTIVE</type>
                     <key>eventlog[Security,,,,4663,,skip]</key>
                     <delay>1m</delay>
-                    <history>1d</history>
+                    <history>7d</history>
                     <trends>0</trends>
                     <value_type>LOG</value_type>
                     <applications>
@@ -391,7 +391,7 @@ return accountName + &quot; : &quot; + lineZero;</params>
                     <type>ZABBIX_ACTIVE</type>
                     <key>eventlog[Security,,,,4670,,skip]</key>
                     <delay>1m</delay>
-                    <history>1d</history>
+                    <history>7d</history>
                     <trends>0</trends>
                     <value_type>LOG</value_type>
                     <applications>
@@ -419,7 +419,7 @@ return accountName + &quot; : &quot; + lineZero;</params>
                     <type>ZABBIX_ACTIVE</type>
                     <key>eventlog[Security,,,,4674,,skip]</key>
                     <delay>1m</delay>
-                    <history>1d</history>
+                    <history>7d</history>
                     <trends>0</trends>
                     <value_type>LOG</value_type>
                     <applications>
@@ -447,7 +447,7 @@ return accountName + &quot; : &quot; + lineZero;</params>
                     <type>ZABBIX_ACTIVE</type>
                     <key>eventlog[Security,,,,4720,,skip]</key>
                     <delay>1m</delay>
-                    <history>1d</history>
+                    <history>7d</history>
                     <trends>0</trends>
                     <value_type>LOG</value_type>
                     <applications>
@@ -475,7 +475,7 @@ return accountName + &quot; : &quot; + lineZero;</params>
                     <type>ZABBIX_ACTIVE</type>
                     <key>eventlog[Security,,,,4722,,skip]</key>
                     <delay>1m</delay>
-                    <history>1d</history>
+                    <history>7d</history>
                     <trends>0</trends>
                     <value_type>LOG</value_type>
                     <applications>
@@ -503,7 +503,7 @@ return accountName + &quot; : &quot; + lineZero;</params>
                     <type>ZABBIX_ACTIVE</type>
                     <key>eventlog[Security,,,,4723,,skip]</key>
                     <delay>1m</delay>
-                    <history>1d</history>
+                    <history>7d</history>
                     <trends>0</trends>
                     <value_type>LOG</value_type>
                     <applications>
@@ -531,7 +531,7 @@ return accountName + &quot; : &quot; + lineZero;</params>
                     <type>ZABBIX_ACTIVE</type>
                     <key>eventlog[Security,,,,4725,,skip]</key>
                     <delay>1m</delay>
-                    <history>1d</history>
+                    <history>7d</history>
                     <trends>0</trends>
                     <value_type>LOG</value_type>
                     <applications>
@@ -559,7 +559,7 @@ return accountName + &quot; : &quot; + lineZero;</params>
                     <type>ZABBIX_ACTIVE</type>
                     <key>eventlog[Security,,,,4726,,skip]</key>
                     <delay>1m</delay>
-                    <history>1d</history>
+                    <history>7d</history>
                     <trends>0</trends>
                     <value_type>LOG</value_type>
                     <applications>
@@ -587,7 +587,7 @@ return accountName + &quot; : &quot; + lineZero;</params>
                     <type>ZABBIX_ACTIVE</type>
                     <key>eventlog[Security,,,,4727,,skip]</key>
                     <delay>1m</delay>
-                    <history>1d</history>
+                    <history>7d</history>
                     <trends>0</trends>
                     <value_type>LOG</value_type>
                     <applications>
@@ -615,7 +615,7 @@ return accountName + &quot; : &quot; + lineZero;</params>
                     <type>ZABBIX_ACTIVE</type>
                     <key>eventlog[Security,,,,4728,,skip]</key>
                     <delay>1m</delay>
-                    <history>1d</history>
+                    <history>7d</history>
                     <trends>0</trends>
                     <value_type>LOG</value_type>
                     <applications>
@@ -643,7 +643,7 @@ return accountName + &quot; : &quot; + lineZero;</params>
                     <type>ZABBIX_ACTIVE</type>
                     <key>eventlog[Security,,,,4729,,skip]</key>
                     <delay>1m</delay>
-                    <history>1d</history>
+                    <history>7d</history>
                     <trends>0</trends>
                     <value_type>LOG</value_type>
                     <applications>
@@ -671,7 +671,7 @@ return accountName + &quot; : &quot; + lineZero;</params>
                     <type>ZABBIX_ACTIVE</type>
                     <key>eventlog[Security,,,,4730,,skip]</key>
                     <delay>1m</delay>
-                    <history>1d</history>
+                    <history>7d</history>
                     <trends>0</trends>
                     <value_type>LOG</value_type>
                     <applications>
@@ -699,7 +699,7 @@ return accountName + &quot; : &quot; + lineZero;</params>
                     <type>ZABBIX_ACTIVE</type>
                     <key>eventlog[Security,,,,4731,,skip]</key>
                     <delay>1m</delay>
-                    <history>1d</history>
+                    <history>7d</history>
                     <trends>0</trends>
                     <value_type>LOG</value_type>
                     <applications>
@@ -727,7 +727,7 @@ return accountName + &quot; : &quot; + lineZero;</params>
                     <type>ZABBIX_ACTIVE</type>
                     <key>eventlog[Security,,,,4732,,skip]</key>
                     <delay>1m</delay>
-                    <history>1d</history>
+                    <history>7d</history>
                     <trends>0</trends>
                     <value_type>LOG</value_type>
                     <applications>
@@ -755,7 +755,7 @@ return accountName + &quot; : &quot; + lineZero;</params>
                     <type>ZABBIX_ACTIVE</type>
                     <key>eventlog[Security,,,,4733,,skip]</key>
                     <delay>1m</delay>
-                    <history>1d</history>
+                    <history>7d</history>
                     <trends>0</trends>
                     <value_type>LOG</value_type>
                     <applications>
@@ -783,7 +783,7 @@ return accountName + &quot; : &quot; + lineZero;</params>
                     <type>ZABBIX_ACTIVE</type>
                     <key>eventlog[Security,,,,4734,,skip]</key>
                     <delay>1m</delay>
-                    <history>1d</history>
+                    <history>7d</history>
                     <trends>0</trends>
                     <value_type>LOG</value_type>
                     <applications>
@@ -811,7 +811,7 @@ return accountName + &quot; : &quot; + lineZero;</params>
                     <type>ZABBIX_ACTIVE</type>
                     <key>eventlog[Security,,,,4738,,skip]</key>
                     <delay>1m</delay>
-                    <history>1d</history>
+                    <history>7d</history>
                     <trends>0</trends>
                     <value_type>LOG</value_type>
                     <applications>
@@ -839,7 +839,7 @@ return accountName + &quot; : &quot; + lineZero;</params>
                     <type>ZABBIX_ACTIVE</type>
                     <key>eventlog[Security,,,,4740,,skip]</key>
                     <delay>1m</delay>
-                    <history>1d</history>
+                    <history>7d</history>
                     <trends>0</trends>
                     <value_type>LOG</value_type>
                     <applications>
@@ -867,7 +867,7 @@ return accountName + &quot; : &quot; + lineZero;</params>
                     <type>ZABBIX_ACTIVE</type>
                     <key>eventlog[Security,,,,4767,,skip]</key>
                     <delay>1m</delay>
-                    <history>1d</history>
+                    <history>7d</history>
                     <trends>0</trends>
                     <value_type>LOG</value_type>
                     <applications>
@@ -895,7 +895,7 @@ return accountName + &quot; : &quot; + lineZero;</params>
                     <type>ZABBIX_ACTIVE</type>
                     <key>eventlog[Security,,,,6144,,skip]</key>
                     <delay>1m</delay>
-                    <history>1d</history>
+                    <history>7d</history>
                     <trends>0</trends>
                     <value_type>LOG</value_type>
                     <applications>
